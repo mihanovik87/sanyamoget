@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /db.php
+Disallow: /auth.php
+Disallow: /comments.php
+Disallow: /upload_avatar.php
+Disallow: /config/
+Disallow: /includes/
+
+Sitemap: https://poskultura.ru/sitemap.xml
